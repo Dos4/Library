@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Foxminded.Library.Application": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Prod"
+      }
+    }
+  }
+}
